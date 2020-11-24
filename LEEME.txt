@@ -1,0 +1,16 @@
+PRESENTADO POR:
+
+CARLOS ALBERTO DEL CASTILLO MAUSSA
+ANDRES FELIPE OTERO LOBO
+
+INGENIERIA DE SISTEMAS
+
+
+Nota: El script para la creacion de las bases de datos se encuentra en "db.sql" que esta dentro de la carpeta
+de database. Para ver la funcionalidad de la app se deben crear primero las bases de datos en la cual se encuentra en "db.sql"
+
+Aparte para correr el programa abrir en Visual Studio Code toda la app que tiene como nombre: "SaludCord-nodejs-mysql-app" y dentro de la app abrir una consola con Ctrl + ñ y escribir el siguiente comando: 
+
+npm i
+
+el comando anterior servira para que se instalen todas las dependencias que necesita la app SaludCord para funcionar
