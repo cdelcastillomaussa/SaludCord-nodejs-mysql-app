@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon src"
   },
-  "author": "",
+  "author": "carlos del castillo maussa",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
